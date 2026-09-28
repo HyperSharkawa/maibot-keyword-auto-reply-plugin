@@ -12,3 +12,8 @@ wheels/
 # 本地上下文仅保存在本机
 /AGENTS.md
 /.context/
+
+# 服务器运行配置、历史备份与本地部署暂存文件
+/config.toml
+/config.toml.backup*
+/.deploy/

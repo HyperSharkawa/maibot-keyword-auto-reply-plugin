@@ -1,7 +1,7 @@
 [project]
 name = "maibot-keyword-auto-reply-plugin"
 version = "0.1.0"
-description = "Add your description here"
+description = "基于正则规则自动回复群消息，支持文本、图片及规则级群白名单。"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = []

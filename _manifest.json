@@ -1,8 +1,8 @@
 {
   "manifest_version": 1,
-  "name": "关键词回复插件",
+  "name": "关键词自动回复插件",
   "version": "1.0.0",
-  "description": "允许使用正则编写规则，对命中的消息进行回复",
+  "description": "基于正则规则自动回复群消息，支持文本、图片及规则级群白名单。",
   "author": {
     "name": "鲨鱼",
     "url": "https://github.com/HyperSharkawa"
@@ -12,7 +12,7 @@
     "min_version": "0.12.0"
   },
   "homepage_url": "https://github.com/HyperSharkawa",
-  "repository_url": "https://github.com/HyperSharkawa/maibot",
+  "repository_url": "https://github.com/HyperSharkawa/maibot-keyword-auto-reply-plugin",
   "keywords": [],
   "categories": [],
   "default_locale": "zh-CN",
